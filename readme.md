@@ -68,9 +68,6 @@ npm install
 
 This command installs the packages listed in `package.json`.
 
-
-Replace `your_password` with your PostgreSQL password and update the database name, username, and port to match your configuration.
-
 **Important:** Never upload your real database password or other secrets to GitHub.
 
 ### Step 5: Start PostgreSQL with Docker
